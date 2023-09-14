@@ -7,26 +7,26 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 ## Jupyter Notebooks
 
 - [DataFrames and Series](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/The%20pandas%20DataFrame.ipynb)
-- Working with Series
-- Sorting and Filtering
-- Applying a function to a DataFrame or Series
-- Data Aggregation and and Grouping
-- Data Visualization
+- [Working with Series](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Working%20with%20Series.ipynb)
+- [Sorting and Filtering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Filtering%20and%20Sorting.ipynb)
+- [Applying a function to a DataFrame or Series](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Applying%20a%20function%20to%20a%20DataFrame%20or%20Series.ipynb)
+- [Data Aggregation and and Grouping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Data%20Aggregation%20and%20Grouping.ipynb)
+- [Data Visualization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/notebooks/Data%20Visualization.ipynb)
 
 
 ## Practice Problems
 
-**Set 1 ():**
-- Problem 1
-- Problem 2
+**Set 1 (due Sept 1):**
+- [Problem 1](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20I.ipynb)
+- [Problem 2](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20%20problem%20II.ipynb)
 
-**Set 2 ():**
-- Problem 3
-- Problem 4
+**Set 2 (due Sept 8):**
+- [Problem 3](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20III.ipynb)
+- [Problem 4](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20IV.ipynb)
   
-**Set 3 ()**
-- Problem 5
-- Problem 6
+**Set 3 (due Sept 13)**
+- [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20V.ipynb)
+- [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/practice%20problems/Practice%20problem%20VI.ipynb)
   
 **Set 4 ()**
 - Problem 7
@@ -39,9 +39,9 @@ The goal of the following Jupyter notebooks is to give you some concrete example
 
 ## Homework 1 ()
 
-- Stanford Open Police Dataset
-- A visual history of Nobel prize winners
-- Analyzing US baby name trends
+- [Stanford Open Police Dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%201.ipynb)
+- [A visual history of Nobel prize winners](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Jupyter%20Notebooks/Pandas/homework/Homework%20problem%202.ipynb)
+- [Analyzing US baby name trends](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Practice/blob/master/Final%20Exam/Part%20I.ipynb)
 
 
 ## Datasets
@@ -60,7 +60,7 @@ Filename | Description |  Source
 [ufo](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/ufo.csv) | Reports of UFO sightings from 1930-2000 (the truth is out there)  | [National UFO Reporting Center](http://www.nuforc.org/webreports.html)
 [chipotleorders](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/chipotleorders.csv) | Online orders from the Chipotle restaurant chain ([link](https://www.nytimes.com/interactive/2015/02/17/upshot/what-do-people-actually-order-at-chipotle.html) to The Upshot article)| [TheUpshot](https://github.com/TheUpshot/chipotle)
 [advertising](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/Advertising.csv) | Sales info in 200 different markets, along with advertising budgets for three different media: TV, radio, and newspaper | [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html)
-[tips](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/tips.csv) | Restaurant tipping | [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/)
+[tips](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/tips.csv) | One waiter recorded information about each tip he received over a period of a few months working in one restaurant. | [Python for Data Analysis](https://learning.oreilly.com/library/view/python-for-data/9781449323592/)
 [movies](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/movies.csv) | Movies | [IMDb](http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple)
 [users](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/users.csv) | Demographic information about MovieLens users | [MovieLens](https://movielens.org/)
 [euro12](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/euro12.csv) | 2012 UEFA European Football Championship data | [GitHub](https://github.com/guipsamora/pandas_exercises)
